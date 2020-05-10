@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+#main{
+  margin:5px;
+  box-sizing: boarder-box;
+  font-family:Raleway;
+  background-color:#f0e3de;f0e3de
+  font-size: 1.6rem;
+  line-height: 1.5;
+  text-align: center;
+}
+
+#title{
+  background-color:#de946d;
+  text-align: center;
+  padding 2px;
+  margin:10px auto;
+  font-family:Pacifico;
+  border-radius:2%;
+  padding-bottom: 5px;
+}
+
+
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius:20px;
+  max-width:50%;
+
+}
+
+#img-div{
+  background-color:#e8d2d1;
+  margin:30px;
+  text-align: center;
+  border-radius:20px;
+  padding: 20px;
+
+}
+
+section{
+  padding:15px;
+}
+
+ul {
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: left;
+  line-height: 1.6;
+}
+
+li {
+  margin: 16px 0;
+}
+
+#end-text{
+
+  margin:30px auto;
+  padding: 25px;
+  text-align: center;
+}
